@@ -1,5 +1,6 @@
 import math
-from collections import Iterable
+# from collections import Iterable
+from collections.abc import Iterable
 from typing import List, Literal, Optional, Tuple, Union
 
 import matplotlib.pyplot as plt
